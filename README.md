@@ -1,4 +1,4 @@
-# TriggerLake – captures the Delta Lake + file-triggered concept.
+# TriggerLake – Delta Lake + file-triggered concept.
 # 📦 Orders Data Pipeline – Databricks Auto Trigger
 
 This project implements an end-to-end data ingestion pipeline using **Databricks**, designed to automatically trigger when a file arrives in the source storage path. It uses two main notebook stages to handle data processing from staging to target.
